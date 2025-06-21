@@ -5,6 +5,7 @@
 
 ## Como usar
 <details>
+  <summary>Expandir:</summary>
   
 >Ajuste os valores destacados em amarelo de salário e rendimento nas configurações:
 >
@@ -25,6 +26,7 @@
 
 ## Como usar
 <details>
+  <summary>Expandir:</summary>
   
 >Preencher os valores destacados em amarelo:
 >
